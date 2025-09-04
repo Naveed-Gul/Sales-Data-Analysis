@@ -1,7 +1,5 @@
 # Sales Data Analysis
 
-# Sales Data Analysis
-
 This repository focuses on analyzing a sales dataset to uncover insights and sales patterns that can enhance product development, marketing strategies, and provide a competitive edge.
 
 ## Data Fields
